@@ -12,6 +12,8 @@ SL.NO	APPARATUS	SPECIFICATION	QUANTITY
 
 CIRCUIT DIAGRAM:
 
+
+
 PROCEDURE:
 1.	Give connections as per the circuit diagram.
 2.	Switch ON the supply, vary the RPS (Regulated Power Supply) and set a particular input voltage.
@@ -20,15 +22,21 @@ PROCEDURE:
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-TABULAR COLUMN:
+Theoretical:-
+
+![WhatsApp Image 2025-11-27 at 11 23 17_22682b0b](https://github.com/user-attachments/assets/21c941af-01e2-473f-a826-f70bba03bfff)
+![WhatsApp Image 2025-11-27 at 11 24 21_2c11e6dd](https://github.com/user-attachments/assets/2e0686e5-72a6-4ffa-98c3-c19cf2cf8ad3)
 
 
-Parameters	
-Theoretical
+Practical:-
 
-Practical
+I1 = 
+I2 =
+I3 =
 		
 CALCULATIONS:
+
+
 
 RESULT:
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
